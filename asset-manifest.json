@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/jeajun/static/js/main.7900f519.chunk.js",
-    "main.js.map": "/jeajun/static/js/main.7900f519.chunk.js.map",
+    "main.js": "/jeajun/static/js/main.182e7f13.chunk.js",
+    "main.js.map": "/jeajun/static/js/main.182e7f13.chunk.js.map",
     "runtime-main.js": "/jeajun/static/js/runtime-main.3e391756.js",
     "runtime-main.js.map": "/jeajun/static/js/runtime-main.3e391756.js.map",
-    "static/js/2.a06172c2.chunk.js": "/jeajun/static/js/2.a06172c2.chunk.js",
-    "static/js/2.a06172c2.chunk.js.map": "/jeajun/static/js/2.a06172c2.chunk.js.map",
+    "static/js/2.9e3c3228.chunk.js": "/jeajun/static/js/2.9e3c3228.chunk.js",
+    "static/js/2.9e3c3228.chunk.js.map": "/jeajun/static/js/2.9e3c3228.chunk.js.map",
     "index.html": "/jeajun/index.html",
-    "precache-manifest.c70ca57de5a940e082060d435be52fa5.js": "/jeajun/precache-manifest.c70ca57de5a940e082060d435be52fa5.js",
+    "precache-manifest.c84c8af47c7b98ffc12532608ce01da2.js": "/jeajun/precache-manifest.c84c8af47c7b98ffc12532608ce01da2.js",
     "service-worker.js": "/jeajun/service-worker.js",
-    "static/js/2.a06172c2.chunk.js.LICENSE.txt": "/jeajun/static/js/2.a06172c2.chunk.js.LICENSE.txt",
+    "static/js/2.9e3c3228.chunk.js.LICENSE.txt": "/jeajun/static/js/2.9e3c3228.chunk.js.LICENSE.txt",
     "static/media/beautyproducts.png": "/jeajun/static/media/beautyproducts.154bf484.png",
     "static/media/cover.png": "/jeajun/static/media/cover.a7645ef6.png",
     "static/media/coverimg.png": "/jeajun/static/media/coverimg.3e29014a.png",
@@ -43,7 +43,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3e391756.js",
-    "static/js/2.a06172c2.chunk.js",
-    "static/js/main.7900f519.chunk.js"
+    "static/js/2.9e3c3228.chunk.js",
+    "static/js/main.182e7f13.chunk.js"
   ]
 }
