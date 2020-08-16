@@ -168,15 +168,20 @@ class Contact extends React.Component{
                 
             <Button id="submit" value="send" 
             type="submit" 
-           
+            onClick = {this.handleSubmit.bind(this)}
             className="btn btn-primary"    
             >SUBMIT</Button>
-         
+       
         </Form>
 
     </Container>
     </>
    );
+    }
+
+    handleSubmit(event){
+        window.alert("Message has been sent successfully.");
+        this.setState({name: "", email: "", message: ""})
     }
    
     onNameChange(event) {

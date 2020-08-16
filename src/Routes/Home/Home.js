@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import styled from "styled-components";
+//import Typical from 'react-typical'
 import {placehold} from "./placehold";
 
 //TO DO: need to figure out how to not show placehold elsewhere 
@@ -7,7 +8,7 @@ import {placehold} from "./placehold";
 const TypeWriter = styled.h1`
 position: relative;
 top: 45vh;
-font-size: 80px;
+font-size: 40px;
 font-weight: 600;
 width: 24em;
 margin: 0 auto;
@@ -34,8 +35,8 @@ export default class Home extends Component {
     render() {
         return (
             <>
-                {this.showCanvas()}
-                <TypeWriter>Hello! I'm Jea</TypeWriter>
+                {this.showCanvas()}                  
+                <TypeWriter>Hi, I'm Jenna</TypeWriter>
             </>
         );
     }
