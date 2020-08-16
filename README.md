@@ -1,4 +1,2 @@
-#TO DO
-- Contact.js - handle submit
-- Detail.js 
-- Resume display 
+To refresh deployed git website:
+npm run deploy

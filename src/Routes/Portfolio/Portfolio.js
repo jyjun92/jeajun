@@ -33,11 +33,11 @@ export default class Portfolio extends Component {
         return (
             <Container>
                 {this.hideCanvas()}
-              <Section>
+              {/* <Section>
                   <Card id = "kakaotalk"
                   imageSrc = "https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/7b/fc/44/7bfc44b9-3016-40dd-90a9-e10292f2ab28/pr_source.png/643x0w.jpg"
                   title = "Kakaotalk Clone" />
-              </Section>
+              </Section> */}
               <Section>
                   <Card id = "movieapp"
                   imageSrc = {MovieImg}
